@@ -1,0 +1,137 @@
+[
+ {
+  "Column1": "Account",
+  "Column2": "1 May-13 May 2024",
+  "Column3": "1 Apr-13 Apr 2024",
+  "Column4": "1 Mar-13 Mar 2024"
+ },
+ {
+  "Column1": "Trading Income"
+ },
+ {
+  "Column1": "Sales",
+  "Column2": 2067.6,
+  "Column3": 2994.95,
+  "Column4": 2730.95
+ },
+ {
+  "Column1": "Total Trading Income",
+  "Column2": 2067.6,
+  "Column3": 2994.95,
+  "Column4": 2730.95
+ },
+ {
+  "Column1": "Cost of Sales"
+ },
+ {
+  "Column1": "Purchases",
+  "Column2": 775.98,
+  "Column3": 0,
+  "Column4": 0
+ },
+ {
+  "Column1": "Total Cost of Sales",
+  "Column2": 775.98,
+  "Column3": 0,
+  "Column4": 0
+ },
+ {
+  "Column1": "Gross Profit",
+  "Column2": 1291.62,
+  "Column3": 2994.95,
+  "Column4": 2730.95
+ },
+ {
+  "Column1": "Operating Expenses"
+ },
+ {
+  "Column1": "Advertising",
+  "Column2": 2309.47,
+  "Column3": 5500,
+  "Column4": 0
+ },
+ {
+  "Column1": "Bank Fees",
+  "Column2": 0,
+  "Column3": 15,
+  "Column4": 15
+ },
+ {
+  "Column1": "Consulting & Accounting",
+  "Column2": 29,
+  "Column3": 29,
+  "Column4": 29
+ },
+ {
+  "Column1": "Entertainment",
+  "Column2": 0,
+  "Column3": 1500,
+  "Column4": 16
+ },
+ {
+  "Column1": "Freight & Courier",
+  "Column2": 105.5,
+  "Column3": 0,
+  "Column4": 0
+ },
+ {
+  "Column1": "General Expenses",
+  "Column2": 120.09,
+  "Column3": 0,
+  "Column4": 0
+ },
+ {
+  "Column1": "Light, Power, Heating",
+  "Column2": 100.32,
+  "Column3": 125.5,
+  "Column4": 110
+ },
+ {
+  "Column1": "Motor Vehicle Expenses",
+  "Column2": 380,
+  "Column3": 137.18,
+  "Column4": 0
+ },
+ {
+  "Column1": "Office Expenses",
+  "Column2": 107.11,
+  "Column3": 308.75,
+  "Column4": 60.23
+ },
+ {
+  "Column1": "Printing & Stationery",
+  "Column2": 0,
+  "Column3": 27.25,
+  "Column4": 21.71
+ },
+ {
+  "Column1": "Rent",
+  "Column2": 1091.22,
+  "Column3": 1091.22,
+  "Column4": 1091.22
+ },
+ {
+  "Column1": "Telephone & Internet",
+  "Column2": 50,
+  "Column3": 43.25,
+  "Column4": 41.5
+ },
+ {
+  "Column1": "Travel - National",
+  "Column2": 223.56,
+  "Column3": 0,
+  "Column4": 32.24
+ },
+ {
+  "Column1": "Total Operating Expenses",
+  "Column2": 4516.27,
+  "Column3": 8777.15,
+  "Column4": 1416.9
+ },
+ {
+  "Column1": "Net Profit",
+  "Column2": 3224.65,
+  "Column3": 5782.2,
+  "Column4": 1314.05
+ }
+]
